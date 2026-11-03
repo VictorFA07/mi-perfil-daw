@@ -4,7 +4,7 @@ Edad: 19 años, nací el 13/04/2007
 
 Me gusta la idea de aprender a programar y desarrollar aplicaciones de todo tipo. Sobre mis aficiones, me gustan los videojuegos, principalmente los shooters competitivos como Valorant, ma gusta el fútbol, la F1 y, Extremoduro es mi grupo favorito.
 
-Este año en 1ºDAW estoy cursando:
+Este año en 1º DAW estoy cursando:
 - Sistemas Informáticos
 - Entornos de Desarrollo
 - Digitalización
